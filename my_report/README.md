@@ -1,8 +1,8 @@
 # Lesson: Interaction Design
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
+### First and Last Name: Konstantinos Gounaris
+### University Registration Number: dpsd19025
+### GitHub Personal Profile: https://github.com/KostisG
 ### Augmented Reality Personal Repository: xxx
 
 # Introduction
