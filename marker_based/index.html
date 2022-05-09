@@ -41,42 +41,42 @@
 <!--2-->
 
   <!--DPSD Pattern-->
-        <a-marker preset="pattern" type="pattern" url="assets/pattern-dpsd19065.patt">
-            <a-text text="value: Lemonis " position="-1.5 0 0" color= "#D73D3F"></a-text>
+        <a-marker preset="pattern" type="pattern" url="assets/pattern-dpsd.patt">
+            <a-text text="value: Gounaris " position="-1.5 0 0" color= "#D73D3F"></a-text>
             <a-image src="assets/costas.png"></a-image>
-            <a-text text="value: Costas " position="-1.5 0.5 0" color= "#F4D35E"></a-text>
+            <a-text text="value: Kostis " position="-1.5 0.5 0" color= "#F4D35E"></a-text>
         </a-marker>
 
   <!--Chemistry-->
         <a-assets>
-		      <img id="hydrogen" src="assets/hydrogenpattern.png" />
-		      <img id="oxygen" src="assets/oxygenpattern.png" />
+		      <img id="wolf" src="assets/card-H.png" />
+		      <img id="ufo" src="assets/card-O.png" />
 	     </a-assets>
 
        <a-assets>
-           <a-asset-item id="Hatom" src="assets/hydrogenmodel.gltf"></a-asset-item>
+           <a-asset-item id="wolf" src="assets/WOLF.glb"></a-asset-item>
        </a-assets>
 
        <a-assets>
-           <a-asset-item id="Oatom" src="assets/oxygenmodel.gltf"></a-asset-item>
+           <a-asset-item id="ufo" src="assets/UFO.glb"></a-asset-item>
        </a-assets>
 
-        <a-marker type="barcode" value="8" id="oxygenmarker">
+        <a-marker type="barcode" value="8" id="ufomarker">
           <a-image src="assets/card-O.png" rotation="-90 0 0" geometry="width: 2.3; height: 2.3"></a-image>
           <a-entity   position="0 1.5 0"
                   rotation="0 0 0"
                   scale="0.3 0.3 0.3"
-                  gltf-model="#Oatom"
+                  gltf-model="#ufo"
                   animation__rotate = "property: rotation; dur: 5000; easing: linear; dir: normal; from:0 0 0; to: 0 360 0; loop: true;" >
           </a-entity>
         </a-marker>
 
-        <a-marker type="barcode" value="39" id="hydrogenmarker">
+        <a-marker type="barcode" value="39" id="wolfmarker">
             <a-image src="assets/card-H.png" rotation="-90 0 0" geometry="width: 2.3; height: 2.3"></a-image>
             <a-entity   position="0 1.5 0"
                     rotation="0 0 0"
                     scale="0.3 0.3 0.3"
-                    gltf-model="#Hatom"
+                    gltf-model="#wolf"
                     animation__rotate = "property: rotation; dur: 5000; easing: linear; dir: normal; from:0 0 0; to: 0 360 0; loop: true;" >
             </a-entity>
         </a-marker>     
