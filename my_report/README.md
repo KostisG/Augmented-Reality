@@ -16,6 +16,14 @@
 
 
 # 2nd Deliverable
+Ξεκινόντασ το δεύτερο παραδοτέο αρχικά έφτιαξα τρία pattern και τα Png και τους κωδικές τους που είναι όλα στον φάκελο assets μέσα στο marker based. Με την σειρά τα pattern είναι:
+  -->pattern-dpsd19025(1).patt και pattern-dpsd19025(1).png
+  -->pattern-card-H.patt & pattern-card-H.png για τον WOLF
+  -->pattern-card-O.patt & pattern-card-O.png για το UFO
+
+Μετά από τα παραπάνω βήματα βρήκα στο intenert δύο animations ένα λυκο το 'WOLF' και έναν υπτάμενο δίσκο το 'UFO' τα οποία υπάρχουν και τα δύο στα assets με τα ονοματα 
+  -->WOLf.glb
+  -->UFO.glb
 
 
 # 3rd Deliverable 
