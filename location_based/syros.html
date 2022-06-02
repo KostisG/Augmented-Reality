@@ -16,10 +16,15 @@
 		embedded
         arjs='sourceType: webcam; sourceWidth:1280; sourceHeight:960; displayWidth: 1280; displayHeight: 960; debugUIEnabled: false;'>
 
-        <a-entity gps-entity-place="latitude: 44.4908615; longitude: 11.3326416;" gltf-model="./assets/magnemite/scene.gltf" rotation="0 180 0" animation-mixer scale="0.15 0.15 0.15"/>
-        
-        
-        
+        <!--Showing Ermoupolis dimarxio-->
+        <a-entity gps-entity-place="latitude: 37.44503494203521; longitude: 24.94278566219772;" rotation="0 180 0">
+          <a-text value="Ermoupolis" align="center" position="0 -0.85 0" side="double"></a-text>
+          <a-text value="dimarxio" position="0 -0.65 0" align="center" side="double"></a-text>
+          <a-image src="assets/dimarxio.jpg" position="0 0 0" side="double" width="1" height="1"></a-image>/>
+        </a-entity>
+
+
+
         <a-camera gps-camera rotation-reader></a-camera>
 	</a-scene>
 </body>
