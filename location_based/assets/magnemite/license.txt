@@ -1,0 +1,11 @@
+Model Information:
+* title:	Torre Eifel
+* source:	https://sketchfab.com/3d-models/torre-eifel-6c2439a783904748879ac9b12a980c2e
+* author:	Rafael Homsi (https://sketchfab.com/gonofredo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Torre Eifel" (https://sketchfab.com/3d-models/torre-eifel-6c2439a783904748879ac9b12a980c2e) by Rafael Homsi (https://sketchfab.com/gonofredo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
